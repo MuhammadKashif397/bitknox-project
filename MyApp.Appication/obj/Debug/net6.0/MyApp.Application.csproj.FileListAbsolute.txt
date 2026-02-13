@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Appication\bin\Debug\net6.0\MyApp.Application.deps.json
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Appication\bin\Debug\net6.0\MyApp.Application.dll
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Appication\bin\Debug\net6.0\MyApp.Application.pdb
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Appication\bin\Debug\net6.0\MyApp.Domain.dll
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Appication\bin\Debug\net6.0\MyApp.Infrastrusture.dll
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Appication\bin\Debug\net6.0\MyApp.Domain.pdb
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Appication\bin\Debug\net6.0\MyApp.Infrastrusture.pdb
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Appication\obj\Debug\net6.0\MyApp.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Appication\obj\Debug\net6.0\MyApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Appication\obj\Debug\net6.0\MyApp.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Appication\obj\Debug\net6.0\MyApp.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Appication\obj\Debug\net6.0\MyApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Appication\obj\Debug\net6.0\MyApp.Ap.B540CA8A.Up2Date
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Appication\obj\Debug\net6.0\MyApp.Application.dll
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Appication\obj\Debug\net6.0\refint\MyApp.Application.dll
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Appication\obj\Debug\net6.0\MyApp.Application.pdb
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Appication\obj\Debug\net6.0\ref\MyApp.Application.dll

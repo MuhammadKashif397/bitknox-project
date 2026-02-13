@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Infrastrusture\bin\Debug\net6.0\MyApp.Infrastrusture.deps.json
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Infrastrusture\bin\Debug\net6.0\MyApp.Infrastrusture.runtimeconfig.json
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Infrastrusture\bin\Debug\net6.0\MyApp.Infrastrusture.dll
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Infrastrusture\bin\Debug\net6.0\MyApp.Infrastrusture.pdb
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Infrastrusture\bin\Debug\net6.0\MyApp.Domain.dll
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Infrastrusture\bin\Debug\net6.0\MyApp.Domain.pdb
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Infrastrusture\obj\Debug\net6.0\MyApp.Infrastrusture.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Infrastrusture\obj\Debug\net6.0\MyApp.Infrastrusture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Infrastrusture\obj\Debug\net6.0\MyApp.Infrastrusture.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Infrastrusture\obj\Debug\net6.0\MyApp.Infrastrusture.AssemblyInfo.cs
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Infrastrusture\obj\Debug\net6.0\MyApp.Infrastrusture.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Infrastrusture\obj\Debug\net6.0\MyApp.In.97FCDEB3.Up2Date
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Infrastrusture\obj\Debug\net6.0\MyApp.Infrastrusture.dll
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Infrastrusture\obj\Debug\net6.0\refint\MyApp.Infrastrusture.dll
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Infrastrusture\obj\Debug\net6.0\MyApp.Infrastrusture.pdb
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Infrastrusture\obj\Debug\net6.0\MyApp.Infrastrusture.genruntimeconfig.cache
+C:\Users\user\source\repos\MyApp.CleanArchiture\MyApp.Infrastrusture\obj\Debug\net6.0\ref\MyApp.Infrastrusture.dll

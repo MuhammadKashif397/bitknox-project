@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ic12YhAYr9Z3y4W7EPR/Y3N4doaYb3GZX2sWkb1EXcA=",
+  "Source": "Bitknox.Api",
+  "BasePath": "_content/Bitknox.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
